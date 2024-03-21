@@ -1,5 +1,5 @@
 # Animation on Pointer/Mouse move using Javascript
-Outputs a little CSS animation (a colored circle) which moves along with mouse move
+This repo outputs a little CSS animation (a colored circle) which moves along with mouse move
 
 ____________________________________________________________________________________________________
 
